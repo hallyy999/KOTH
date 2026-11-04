@@ -54,16 +54,3 @@
     </table>
     </details>
   </div></section>
-
-  <section class="step" style="border-bottom:0"><div class="n"></div><div>
-    <h2>Un problème ?</h2>
-    <ul class="help">
-      <li><b>« Mods incompatibles » à la connexion :</b> réimportez le pack KOTH-1.0.zip dans un nouveau profil, sans ajouter d'autres mods.</li>
-      <li><b>Le jeu plante au lancement :</b> augmentez la mémoire à 4 Go ou plus dans les réglages du profil.</li>
-      <li><b>Connexion refusée :</b> vérifiez que votre compte possède Minecraft Java et que vous êtes en version 1.20.1.</li>
-      <li><b>Toujours bloqué :</b> demandez de l'aide au staff sur le Discord.</li>
-    </ul>
-  </div></section>
-</main>
-<div class="wrap fine">KOTH est un serveur indépendant, non affilié à Mojang ni à Microsoft.</div>
-</body>
