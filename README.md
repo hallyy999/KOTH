@@ -70,12 +70,7 @@
       <li><b>Connexion refusée :</b> vérifiez que votre compte possède Minecraft Java et que vous êtes en version 1.20.1.</li>
       <li><b>Toujours bloqué :</b> demandez de l'aide au staff sur le Discord.</li>
     </ul>
-    <p style="margin-top:12px">{{discord_button}}</p>
   </div></section>
 </main>
 <div class="wrap fine">KOTH est un serveur indépendant, non affilié à Mojang ni à Microsoft.</div>
-<script>
-function copyIp(){var t=document.getElementById('ip').textContent,b=document.getElementById('cp');function ok(){b.textContent='Copié';setTimeout(function(){b.textContent='Copier';},1500);}if(navigator.clipboard){navigator.clipboard.writeText(t).then(ok,ok);}else{ok();}}
-</script>
 </body>
-</html>
