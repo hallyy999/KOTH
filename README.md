@@ -6,26 +6,26 @@
 </div></header>
 
 <main class="wrap">
-  <section class="step"><div class="n">1</div><div>
+  <section class="step"><div class="n"></div><div>
     <h2>Avoir Minecraft Java</h2>
     <p>Il faut un compte Minecraft Java Edition lié à votre compte Microsoft. Lancez le jeu une première fois en version 1.20.1 pour vérifier que tout fonctionne.</p>
     <a class="btn" href="https://www.minecraft.net/" target="_blank" rel="noopener">Minecraft.net</a>
   </div></section>
 
-  <section class="step"><div class="n">2</div><div>
+  <section class="step"><div class="n"></div><div>
     <h2>Installer CurseForge</h2>
     <p>L'application CurseForge installe Forge et les mods à votre place, sans manipuler de fichiers. C'est la méthode la plus simple.</p>
     <a class="btn" href="https://www.curseforge.com/download/app" target="_blank" rel="noopener">Télécharger CurseForge</a>
   </div></section>
 
-  <section class="step"><div class="n">3</div><div>
+  <section class="step"><div class="n"></div><div>
     <h2>Télécharger le pack KOTH</h2>
     <p>Le pack contient tous les mods et leurs réglages. Vous n'avez rien à ajouter à la main : CurseForge télécharge tout lors de l'importation.</p>
     <a class="btn g" href="{{download_url}}">Télécharger KOTH-1.0.zip</a>
     <p style="margin-top:12px;font-size:16px">Ne le décompressez pas : gardez le fichier .zip tel quel.</p>
   </div></section>
 
-  <section class="step"><div class="n">4</div><div>
+  <section class="step"><div class="n"></div><div>
     <h2>Importer le pack dans CurseForge</h2>
     <p>Dans l'application CurseForge, choisissez Minecraft, puis :</p>
     <ul class="help">
@@ -55,7 +55,7 @@
     </details>
   </div></section>
 
-  <section class="step"><div class="n">5</div><div>
+  <section class="step"><div class="n"></div><div>
     <h2>Rejoindre le serveur</h2>
     <p>Lancez votre profil depuis CurseForge. Dans Minecraft, ouvrez « Multijoueur », cliquez sur « Ajouter un serveur » et entrez l'adresse :</p>
     <div class="addr"><code id="ip">{{server_address}}</code><button class="btn g" onclick="copyIp()" id="cp">Copier</button></div>
