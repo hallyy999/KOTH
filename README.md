@@ -55,13 +55,6 @@
     </details>
   </div></section>
 
-  <section class="step"><div class="n"></div><div>
-    <h2>Rejoindre le serveur</h2>
-    <p>Lancez votre profil depuis CurseForge. Dans Minecraft, ouvrez « Multijoueur », cliquez sur « Ajouter un serveur » et entrez l'adresse :</p>
-    <div class="addr"><code id="ip">{{server_address}}</code><button class="btn g" onclick="copyIp()" id="cp">Copier</button></div>
-    <p style="margin-top:14px">Choisissez votre équipe et votre classe, et c'est parti.</p>
-  </div></section>
-
   <section class="step" style="border-bottom:0"><div class="n"></div><div>
     <h2>Un problème ?</h2>
     <ul class="help">
