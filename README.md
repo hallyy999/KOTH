@@ -62,7 +62,7 @@
     <p style="margin-top:14px">Choisissez votre équipe et votre classe, et c'est parti.</p>
   </div></section>
 
-  <section class="step" style="border-bottom:0"><div class="n">?</div><div>
+  <section class="step" style="border-bottom:0"><div class="n"></div><div>
     <h2>Un problème ?</h2>
     <ul class="help">
       <li><b>« Mods incompatibles » à la connexion :</b> réimportez le pack KOTH-1.0.zip dans un nouveau profil, sans ajouter d'autres mods.</li>
